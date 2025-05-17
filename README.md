@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Feodore12
 - 👀 I’m interested in Proggraming
-- 🌱 I’m currently learning SQL
+- 🌱 I’m currently learning Backend coding languages
 - 💞️ I’m looking to collaborate on Google
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
